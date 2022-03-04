@@ -9,4 +9,4 @@ How to run:
 1. Open Jupter Notebook/Google Colab in your browser
 2. Open the folder containing this folder
 3. Run ObjectDetection.ipynb
-4. done!
+4. Done!
